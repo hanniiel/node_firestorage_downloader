@@ -1,5 +1,5 @@
 # node_firestorage_downloader
-Firestorage resource downloade
+Firestorage resource downloader (download all your resources stored on firestorage)
 
 
 --- npm i
